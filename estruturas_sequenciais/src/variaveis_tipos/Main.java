@@ -16,8 +16,5 @@ public class Main
       System.out.println(" double          | Double");
       System.out.println(" char            | Character");
       System.out.println(" boolean         | Boolean");
-
-
-
    }
 }
