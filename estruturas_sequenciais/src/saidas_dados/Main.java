@@ -1,6 +1,6 @@
 package saidas_dados;
 
-// Capítulo 02 / aula 05 - Saídas de dados em Java
+// Módulo 04 / Capítulo 02 / aula 05 - Saídas de dados em Java
 
 import java.util.Locale;
 

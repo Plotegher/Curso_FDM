@@ -1,6 +1,6 @@
 package variaveis_tipos;
 
-// Capítulo 02 / aula 03 - Variáveis e tipos básicos em Java
+// Módulo 04 / Capítulo 02 / aula 03 - Variáveis e tipos básicos em Java
 
 public class Main
 {

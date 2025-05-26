@@ -1,6 +1,6 @@
 package expressoes_aritmeticas;
 
-// Capítulo 02 / aula 02 - Expressões aritméticas em Java
+// Módulo 04 / Capítulo 02 / aula 02 - Expressões aritméticas em Java
 
 public class Main
 {

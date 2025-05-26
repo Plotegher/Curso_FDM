@@ -1,6 +1,6 @@
 package operacoes_basicas;
 
-// Capítulo 02 / aula 04 - As 3 operações básicas em programação
+// Módulo 04 / Capítulo 02 / aula 04 - As 3 operações básicas em programação
 
 import java.util.Scanner;
 
