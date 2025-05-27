@@ -6,7 +6,7 @@ public class Main
 {
    public static void main(String[] args)
    {
-      System.out.println("OPERADORES COMPARATIVOS:");
+      System.out.println("\nOPERADORES COMPARATIVOS:");
       System.out.println("------------------------");
       System.out.println("Símbolo | Operador");
       System.out.println(" >      | Maior");
@@ -14,7 +14,7 @@ public class Main
       System.out.println(" >=     | Maior ou igual");
       System.out.println(" <=     | Menor ou igual");
       System.out.println(" ==     | Igual");
-      System.out.println(" !=     | Difrente");
+      System.out.println(" !=     | Diferente");
       System.out.println("------------------------");
    }
 }
