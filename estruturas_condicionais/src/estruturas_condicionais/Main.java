@@ -79,7 +79,6 @@ public class Main
             System.out.println("Não há problema!");
          }
       }
-
       scanner.close();
    }
 }
