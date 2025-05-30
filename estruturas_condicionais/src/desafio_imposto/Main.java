@@ -63,11 +63,11 @@ public class Main
       double maximoDedutivel = impostoTotal * 0.30;
       if (gastosDedutiveis < maximoDedutivel)
       {
-         impostoBrutoTotal = medico + educacao;
+         impostoBrutoTotal = gastosDedutiveis;
       }
       else
       {
-         impostoBrutoTotal = impostoTotal * 0.30;
+         impostoBrutoTotal = maximoDedutivel;
       }
 
       // Relatório
