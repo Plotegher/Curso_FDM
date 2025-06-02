@@ -86,7 +86,7 @@ public class Main
             System.out.print("Valor invalido! Favor digitar um valor positivo: ");
             peso = scanner.nextDouble();
          }
-         
+
          // Peso médio dos atletas
          somaPeso += peso;
          pesoMedio = somaPeso / n;
