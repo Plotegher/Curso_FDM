@@ -16,10 +16,10 @@ public class Produto
    public Produto() {}
 
    // Sobrecarga - Construtor com 2 argumentos
-   public Produto(String nomeAtributo, double precoAtributo)
+   public Produto(String nomeArgumento, double precoArgumento)
    {
-      this.nomeAtributo = nomeAtributo;
-      this.precoAtributo = precoAtributo;
+      this.nomeAtributo = nomeArgumento;
+      this.precoAtributo = precoArgumento;
    }
 
    // Sobrecarga - Construtor com 3 argumentos
